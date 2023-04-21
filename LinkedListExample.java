@@ -9,6 +9,7 @@ class Node {
         this.next = next;
     }
 }
+
 class LinkedList {
     Node root;
     public LinkedList() {
